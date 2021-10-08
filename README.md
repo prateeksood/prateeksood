@@ -24,7 +24,7 @@
 
 <p align="left"> 
   
-  ![Javascript Badge](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
+  ![Javascript Badge](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/prateeksood)
   ![C++ Badge](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![C Badge](https://img.shields.io/badge/C%20-%232370ED.svg?style=flat-square&logo=c&logoColor=white)
   
