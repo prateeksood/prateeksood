@@ -42,9 +42,9 @@
 ### Databases & Cloud Hosting
 <p align="left">
   
-  [![GitHub Badge](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat-square&&llogo=github&logoColor=white)](#)
   [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](#)
   [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)](#)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat-square&&llogo=github&logoColor=white)](#)
   [![Heroku Badge](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)](#)
  </p>
  
