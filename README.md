@@ -1,4 +1,4 @@
-##  Hey there !  <img src="https://tenor.com/view/emoji-hi-hello-wave-gif-14366945.gif" width="30px"> I'm Prateek  
+##  Hey there !  <img src="https://tenor.com/view/emoji-hi-hello-wave-gif-14366945.gif" width="30px" height="30px"> I'm Prateek  
 
 <img align="left" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 <p><img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" height="25vw" width="25vw"/> <em> Computer science student</em></p>
