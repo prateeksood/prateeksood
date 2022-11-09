@@ -1,15 +1,15 @@
-##  Hey there !  <img src="https://tenor.com/view/emoji-hi-hello-wave-gif-14366945.gif" width="30px" height="30px"> I'm Prateek  
+##  Hey there ! 👋 I'm Prateek  
 
-<img align="left" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-<p><img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" height="25vw" width="25vw"/> <em> Computer science student</em></p>
-<p><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="25vw" width="25vw"/> <em> Full Stack web developer</em></p>
-<p><img src="https://tenor.com/view/agenturleben-agencylife-hannover-kochstrasse-kstr-gif-20343289.gif" height="25vw" width="25vw"/> <em> Data Structures and Algorithms</em></p>
-<p><img src="https://tenor.com/view/cbse-tayari-monu-bhagat-experiment-gif-20364762.gif" height="25vw" width="25vw"/> <em> Avid learner</em></p>
+<img align="left" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+<p>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" height="25vw" width="25vw"/> <em> Computer science student</em></p>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="25vw" width="25vw"/> <em> Full Stack web developer</em></p>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://tenor.com/view/agenturleben-agencylife-hannover-kochstrasse-kstr-gif-20343289.gif" height="25vw" width="25vw"/> <em> Data Structures and Algorithms</em></p>
+<p>&nbsp;&nbsp;&nbsp;<img src="https://tenor.com/view/cbse-tayari-monu-bhagat-experiment-gif-20364762.gif" height="25vw" width="25vw"/> <em> Avid learner</em></p>
 
 <br/>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prateek-sood-a88a2019a/)](https://www.linkedin.com/in/prateek-sood-a88a2019a/)
+[&nbsp;&nbsp;&nbsp;![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prateek-sood-a88a2019a/)](https://www.linkedin.com/in/prateek-sood-a88a2019a/)
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/prateeksood123)](https://leetcode.com/prateeksood123)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:prateeksood123@gmail.com)](mailto:prateeksood123@gmail.com)
 [![Github Page Badge](https://img.shields.io/badge/GitHub-100000?style=flat-rectangle&logo=github&logoColor=white&link=https://github.com/prateeksood)](https://github.com/prateeksood)
